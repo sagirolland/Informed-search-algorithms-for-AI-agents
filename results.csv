@@ -1,0 +1,5 @@
+map,BFS-G cost,BFS-G num of expanded nodes,Greedy Search cost,Greedy Search num of expanded nodes,A* cost,A*  num of expanded nodes,A*-Epsilon (0.5) cost,A*-Epsilon (Epsilon=0.5) num of expanded nodes,A*-Epsilon (2) cost,A*-Epsilon (Epsilon=2) num of expanded nodes,A*-Epsilon (4) cost,A*-Epsilon (Epsilon=4) num of expanded nodes,A*-Epsilon (4) cost,A*-Epsilon (Epsilon=0.3) num of expanded nodes,A*-Epsilon (4) cost,A*-Epsilon (Epsilon=0.02) num of expanded nodes
+map12x12,109.0,116,227.0,29,87.0,92,89.0,49,144.0,39,140.0,72,87.0,79,87.0,92
+map15x15,121.0,174,188.0,45,106.0,168,135.0,142,125.0,106,125.0,59,123.0,153,106.0,167
+map20x20,256.0,314,268.0,38,175.0,310,195.0,176,192.0,228,268.0,38,195.0,306,175.0,310
+map30x30,266.0,332,279.0,41,165.0,329,212.0,314,203.0,227,279.0,41,193.0,324,165.0,329
